@@ -1,0 +1,3 @@
+    The Chandrasekhar Limit is the maximum mass a white dwarf can have while remaining
+    stable — about 1.4 solar masses. Stars exceeding this limit explode as Type Ia
+    supernovae instead of settling quietly as white dwarfs.

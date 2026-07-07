@@ -1,0 +1,3 @@
+    A binary star system consists of two stars orbiting a common center of mass. More
+    than half of all star systems in the Milky Way are binary or multiple systems. They
+    provide valuable data for measuring stellar masses.

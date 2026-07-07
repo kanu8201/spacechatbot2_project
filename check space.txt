@@ -1,0 +1,1 @@
+check = ["What", "is","the","to","for","how","can","you","of","explain","a","an","when","there","many","do","mean",""
