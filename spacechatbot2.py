@@ -436,6 +436,9 @@ else :
 
 
 
+K = input('enter the the value')
+print(K)
+
 
 
 
